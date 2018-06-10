@@ -1,0 +1,25 @@
+#Learn Python the Hard Way
+#Exersice 37: Symbol Review
+
+- and: if both statemennts are True then evaluates as true
+- del: delete instructed item
+- from: from a file import a module
+- not: if True then False and vise versa
+- while: while True perform operations
+- as: "aliasing"/ set keyword to operation
+- elif: "else-if"/ if the past if statement was false test this statement
+- global: variable defined outside of function but can be used within function
+- or: if one of two statemnets are true then True
+- with: ???? checks to see if outside code will error before running???
+- assert: add debuging asserts to code
+- else: if all esle fails run this..
+- if: if this is True then run this...
+- pass: code that does nothing. Used when code is needed but not a value
+- yeild: function returns a generator (like return but formula not int/str/etc)
+- break: stops the loop and ignores all else, etc.
+- except: if error is encountered then run except statemnt
+- import: bring in module from specified file
+- print: print statement
+- class: grouped lines of code to be called on in the program/ like funciton definitions with more power
+- exec: execute a line of code
+- in: 

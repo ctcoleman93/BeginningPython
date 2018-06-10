@@ -1,0 +1,39 @@
+Symbols and important words in python
+Chris Coleman
+
+- Print() = display something to user
+- , = used to seperate statements in a print statment
+- %(s/d/r) = assignment for variables in a print statemnt
+- \n = new line in a print statemnt
+- # = Comment out a section that is not ran when program is run
+- "" or '' = Used for string text that will be displayed
+- """ """" = used for large strings of characters in a print statment
+- + = add integers or strings together
+- - = subtract integers
+- * = multiply intergers
+- ** = exponent for integers
+- / = divide integers
+- % = modulus / display remainder when two integers are divided
+- < = less than
+- > = greater than
+- = = equal to
+- <= = less than or equal to
+- >= = greater than or equal to
+- == = is equal to
+- = used to give value to an expression/variable
+- boolean = expression that evaluates to either true or false
+- True = statment is factual
+- False = statment is false
+- Not = True is False and False is True
+- Variable = word(S) that represtent an expression, string, or integers
+- input("") = ask user to input a value- 
+- from __ import __ = import a module from a file
+- sys = file in python that has module that can be used
+- argv = module that allows user to import values when opening file
+- open() = open a file to be used in program
+- .read() = read file (used with print to print file to user)
+- close() = close file used in program
+- .write() = write to file
+- os.path = file manipulation modulus
+- exists = checks if file exists
+- def = define function
